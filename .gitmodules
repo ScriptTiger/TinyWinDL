@@ -1,0 +1,6 @@
+[submodule "fasmg"]
+	path = fasmg
+	url = https://github.com/tgrysztar/fasmg
+[submodule "fasmgP"]
+	path = fasmgP
+	url = https://github.com/ScriptTiger/fasmgP
