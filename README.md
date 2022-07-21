@@ -1,4 +1,4 @@
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/thescripttiger%40gmail.com)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://docs.google.com/forms/d/e/1FAIpQLSfBEe5B_zo69OBk19l3hzvBmz3cOV6ol1ufjh0ER1q3-xd2Rg/viewform)
 
 # TinyWinDL
 This is a trivial downloader for Windows which is basically just a wrapper for `URLDownloadToFileA`. Being a trivial downloader, it does not attempt to recover from an error nor does it follow dynamic links, so all links should be static. Use cases for TinyWinDL are trivial files, such as small files storing non-critical settings or configurations, which are synchronized regularly and missing a synchronization here or there is not important.
