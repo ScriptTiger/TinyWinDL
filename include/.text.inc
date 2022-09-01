@@ -98,7 +98,7 @@ main:
 
         ;Download URL to file
         push    0
-        invoke  URLDownloadToFile,\
+        invoke  URLDownloadToFileA,\
                 0,\
                 [srcURL],\
                 [dstFile],\
